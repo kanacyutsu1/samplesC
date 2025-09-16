@@ -48,15 +48,6 @@ void setupWindow() {
   }
 }
 
-
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
 final demos = [
   Demo(
     name: 'Sign in with HTTP',
